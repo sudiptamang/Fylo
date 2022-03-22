@@ -1,0 +1,163 @@
+.parent {
+  display: flex;
+  justify-content: space-between;
+}
+.list {
+  /* margin-left: 500px; */
+  display: flex;
+  list-style: none;
+}
+.list li {
+  padding-right: 50px;
+  margin-top: 20px;
+}
+h1 {
+  width: 400px;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  border: none;
+  margin-left: 20px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  border-radius: 2px;
+  width: 150px;
+}
+
+input {
+  padding-right: 50px;
+  color: red;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.photo {
+  width: 400px;
+  margin-right: 50px;
+}
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  /* background-color: blue; */
+  width: 1100px;
+}
+
+.product {
+  /* background-image: url(./bg-curve-desktop.svg); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100% 100%;
+}
+h2 {
+  padding-top: 150px;
+}
+.fylo {
+  color: green;
+  border-bottom: 2px solid green;
+  width: 300px;
+  align-items: center;
+  display: flex;
+}
+p {
+  width: 450px;
+}
+.improve {
+  width: 230px;
+  font-size: small;
+}
+.sanam {
+  border-radius: 50%;
+  height: 20px;
+  width: 20px;
+}
+.burton {
+  display: flex;
+}
+.burt {
+  margin-left: 10px;
+}
+.name {
+  margin: 0;
+  padding: 0;
+}
+.post {
+  font-size: x-small;
+}
+.kyle {
+  background-color: #eee;
+  width: 50%;
+  height: 150px;
+  padding: 20px;
+}
+.person {
+  height: 300px;
+  padding-left: 150px;
+  padding-top: 150px;
+}
+.never {
+  display: flex;
+}
+.pic {
+  display: flex;
+}
+.early {
+  margin-top: 50px;
+  background-color: hsl(238, 22%, 44%);
+  height: 250px;
+}
+.get {
+  font-size: x-large;
+  color: white;
+  padding-top: 70px;
+}
+.sign {
+  color: gainsboro;
+  font-size: medium;
+}
+
+.access {
+  display: flex;
+}
+.start {
+  margin-top: 90px;
+  margin-left: 300px;
+}
+.but {
+  background-color: hsl(224, 93%, 58%);
+  margin-left: 300px;
+}
+.night {
+  background-color: hsl(243, 87%, 12%);
+  height: 270px;
+}
+li {
+  padding-left: 20px;
+  list-style: none;
+  padding-top: 7px;
+}
+.contact {
+  display: flex;
+  margin-top: 20px;
+  opacity: 0.8;
+  color: #eee;
+}
+.logo {
+  margin-top: 70px;
+}
+.about {
+  opacity: 0.8;
+  margin-left: 100px;
+  color: #eee;
+}
+.footer {
+  display: flex;
+}
+.facebook {
+  width: 30px;
+  height: 30px;
+  margin-left: 30px;
+  margin-top: 10px;
+  display: flex;
+  padding-left: 10px;
+}
